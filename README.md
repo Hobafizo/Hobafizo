@@ -1,6 +1,6 @@
 # Muhab Fawzy | Software Engineer
 
-👋 Hi, I’m Muhab Fawzy! An ordinary college student, who loves anime and games.
+👋 Hi, I’m Muhab Fawzy! An ordinary college student, who loves games and programming.
 
 🎄 *Been fascinated by programming since primary school in some strange gaming field, started to work on general projects since preparatory.*
 
